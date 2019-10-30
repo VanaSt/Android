@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Scrabble</string>
+    <string name="vana">Vana</string>
+    <string name="vana_score">0</string>
+    <string name="_1_pointVana">+1 point</string>
+    <string name="_2_pointsVana">+2 points</string>
+    <string name="_3_pointsVana">+3 points</string>
+    <string name="_4_pointsVana">+4 points</string>
+    <string name="_8_pointsVana">+8 points</string>
+    <string name="_10_pointsVana">+10 points</string>
+    <string name="george">George</string>
+    <string name="_0_George">0</string>
+    <string name="_1_pointGeorge">+1 point</string>
+    <string name="_2_pointsGeorge">+2 points</string>
+    <string name="_3_pointsGeorge">+3 points</string>
+    <string name="_4_pointsGeorge">+4 points</string>
+    <string name="_8_pointsGeorge">+8 points</string>
+    <string name="_10_pointsGeorge">+10 points</string>
+    <string name="reset">reset</string>
+</resources>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:scaleType="centerCrop"
+        android:src="@drawable/a" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="32sp"
+        android:fontFamily="sans-serif-light"
+        android:textColor="@android:color/holo_red_dark"
+        android:textStyle="italic"
+        android:layout_marginTop="80dp"
+        android:text="There is a black infinity"
+        android:textAlignment="center"
+        android:id="@+id/textView"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="32sp"
+        android:fontFamily="sans-serif-light"
+        android:textColor="@android:color/holo_red_dark"
+        android:textStyle="italic"
+        android:layout_marginTop="230dp"
+        android:text="parked outside "
+        android:textAlignment="center"
+        android:id="@+id/textView"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="32sp"
+        android:fontFamily="sans-serif-light"
+        android:textColor="@android:color/holo_red_dark"
+        android:textStyle="italic"
+        android:layout_marginBottom="80dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:text="blocking somebody in"
+        android:textAlignment="center"
+        android:id="@+id/textView"/>
+
+
+</RelativeLayout>
+

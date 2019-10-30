@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6A1B9A</color>
+    <color name="colorPrimaryDark">#4A148C</color>
+    <color name="colorAccent">#880E4F</color>
+    <color name="reset_button">#cfc5c4</color>
+    <color name="reset_text">#363332</color>
+    <color name="button_color">#cfc5c4</color>
+    <color name="button_text">#363332</color>
+    <color name="startcolor">#67257d</color>
+    <color name="endcolor">#875c5f</color>
+    <color name="centercolor">#b8b2b3</color>
+</resources>

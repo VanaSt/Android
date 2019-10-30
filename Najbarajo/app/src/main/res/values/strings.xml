@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Najbarajo</string>
+    <string name="link"><a href="https://foursquare.com/v/najbarajo/561fe9fd498ed9f1f421507c">Najbarajo</a></string>
+    <string name="image">Najbaraho</string>
+    <string name="title">Najbarajo</string>
+    <string name="description">Café and Cocktail Bar</string>
+    <string name="street">Andrea Papandreou 38</string>
+    <string name="town">Chalandri 152 32 Attica Greece</string>
+    <string name="phone">+30 21 0685 6736</string>
+</resources>

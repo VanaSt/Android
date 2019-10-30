@@ -1,0 +1,31 @@
+    <resources>
+        <string name="app_name">Depeche Mode Basics Quiz</string>
+        <string name="Congrats">Congratulations!!</string>
+        <string name="you_can_do_better">Score:</string>
+        <string name="question1">1. Which is the debut album of Depeche Mode?</string>
+        <string name="question2">2. Which two are past members of Depeche Mode?</string>
+        <string name="question3">3. Let me see you stripped down to the..</string>
+        <string name="question4">4. Who is the lead singer of Depeche Mode?</string>
+        <string name="question5">5. Who is the lead songwriter of Depeche Mode?</string>
+        <string name="speak_and_spell"><![CDATA[Speak & Spell]]></string>
+        <string name="black_celebration">Black Celebration</string>
+        <string name="violator">Violator</string>
+        <string name="martin_gore">Martin Gore</string>
+        <string name="alan_wilder">Alan Wilder</string>
+        <string name="andy_fletcher">Andy Fletcher</string>
+        <string name="vince_clarke">Vince Clarke</string>
+        <string name="fill_me">Fill me!</string>
+        <string name="dave_gaham">Dave Gaham</string>
+        <string name="billy_bob_thorton">Billy Bob Thorton</string>
+        <string name="benicio_del_toro">Benicio Del Toro</string>
+        <string name="dave_gaham5">Dave Gaham</string>
+        <string name="martin_gore5">Martin Gore</string>
+        <string name="andy_fletcher5">Andy Fletcher</string>
+        <string name="score">Score</string>
+        <string name="reset">Reset</string>
+        <string name="nop">You can do better!!</string>
+        <string name="yourscore">Your score is:</string>
+        <string name="answers">Answers:</string>
+        <string name="right_answers"><![CDATA[Question 1: Speak & Spell - Question 2: Alan Wilder and Vince Clarke - Question 3: bones - Question 4: Dave Gaham - Question 5: Martin Gore]]></string>
+        <string name="wrong_answers"><![CDATA[Question 1: Speak & Spell - Question 2: Alan Wilder and Vince Clarke - Question 3: bones - Question 4: Dave Gaham - Question 5: Martin Gore]]></string>
+    </resources>
